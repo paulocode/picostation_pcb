@@ -15,3 +15,4 @@
 | U1 | D2pak 7805 |
 
 * Links are samples only, I did not buy from them.
+* You can harvest a D2pak 7805 from PlayStation boards.
