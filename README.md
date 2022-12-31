@@ -12,7 +12,7 @@
 | J2 | 20-pin FFC socket https://amzn.to/3WJF29v] 
 | J3 | Raspberry Pi Pico |
 | R1 | 0603 4.7kΩ |
-| U1 | TO-252 7805 https://amzn.to/3VH1zCO |
+| U1 | TO-252 7805 https://amzn.to/3VBOSJq |
 
 * Links are samples only, I did not buy from them.
 * You can harvest a TO-252 7805 from PlayStation boards.
