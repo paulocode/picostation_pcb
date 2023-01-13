@@ -1,6 +1,6 @@
 # picostation_pcb
 
-![pcb](https://github.com/paulocode/picostation_pcb/raw/main/images/top.svg)
+<img src="https://github.com/paulocode/picostation_pcb/raw/main/images/top.svg" alt="pcb" height="400"/><img src="https://github.com/paulocode/picostation_pcb/raw/main/images/FmRhUjRaEAAdwso.jpg" alt="pcb actual" height="400"/>
 
 | ID | PART |
 |---|---|
