@@ -18,3 +18,4 @@
 * Links are samples only, I did not buy from them.
 * You can harvest a TO-252 7805 from PlayStation boards.
 * Software for this project is NOT yet released as of Jan 2023
+* The FFC cable is the same one that comes with an Xstation order
