@@ -2052,7 +2052,7 @@
   (symbol (lib_id "Device:R") (at 53.34 22.86 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 38eea248-c071-4344-8e03-64f4274ca5cc)
-    (property "Reference" "R2" (at 53.34 17.78 90)
+    (property "Reference" "R1" (at 53.34 17.78 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "2.2k" (at 53.34 20.32 90)
@@ -2069,7 +2069,7 @@
     (instances
       (project "picostation_pcb"
         (path "/69032557-405f-457b-8a9a-4ca4fb07928c"
-          (reference "R2") (unit 1)
+          (reference "R1") (unit 1)
         )
       )
     )
@@ -2197,10 +2197,10 @@
   (symbol (lib_id "Device:C") (at 27.94 30.48 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 6e6e3520-7c03-432e-9d40-5572fcb0e3a5)
-    (property "Reference" "C3" (at 31.75 29.2099 0)
+    (property "Reference" "C1" (at 31.75 29.845 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "10u" (at 31.75 31.7499 0)
+    (property "Value" "10u" (at 31.75 32.385 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (at 28.9052 34.29 0)
@@ -2214,7 +2214,7 @@
     (instances
       (project "picostation_pcb"
         (path "/69032557-405f-457b-8a9a-4ca4fb07928c"
-          (reference "C3") (unit 1)
+          (reference "C1") (unit 1)
         )
       )
     )
